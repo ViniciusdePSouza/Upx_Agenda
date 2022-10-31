@@ -14,6 +14,10 @@
     --light-green_1: #85f1a4;
 }
 
+.hide {
+    display: none;
+}
+
 body {
     padding: 12.6rem;
 
